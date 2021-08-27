@@ -24,3 +24,10 @@ chmod 755 setup-kind.sh
 
 </div>
 </pre>
+<div>
+You can now get your kind cluster up </br>
+cd </br>
+cd mizar </br>
+./kind-setup.sh dev 2 #for two worker node dev 2
+</div>
+
